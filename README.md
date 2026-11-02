@@ -1,13 +1,13 @@
 # CHIM(AIagent) MCM 翻訳ファイル
 
-CHIM(AIagent) MCM 日本語化ファイルを配布させて頂いています。
+CHIM(AIagent) MCM 日本語化ファイルを配布させて頂いています
 非公式の翻訳パッチです
 
 ## ダウンロード
 
 配布ファイル（.zip）は、**ページの右側にある「リリース(Releases)」** からダウンロードしてください。
 
-👉 [最新リリース]　(https://github.com/MODBIJIROKU/CHIM_MCM-jp/releases/tag/v3.4.2-ja)
+👉 [最新リリース v3.5.1]　(https://github.com/MODBIBOUROKU/CHIM_MCM-jp/releases/tag/v3.5.1-ja)
 
 ## 使い方
 
